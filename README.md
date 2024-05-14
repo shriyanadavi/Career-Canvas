@@ -10,6 +10,8 @@ Career Canvas is an online platform designed to help users advance their careers
 As soon-to-be graduates, we recognize the significant challenges that new graduates face in the job market, including unemployment and the difficulties of job searching. These challenges often lead to financial strain and mental health struggles. To address this pressing issue, we created a resource designed to support fellow new graduates in their job search journey. Our goal is to alleviate some of the hardships associated with finding a job by providing assistance and hope during this critical transition period.
 
 # Demo 
+Below is a video demonstration of the main features of our website. 
+
 https://github.com/shriyanadavi/Career-Canvas/assets/37775583/efe4732a-94d8-4e3b-bc73-a5a39efea936
 
 # Feature 1: Resume Help
