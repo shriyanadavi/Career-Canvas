@@ -4,7 +4,7 @@
 
 
 # Overview 
-Career Canvas is an online platform that will allow users to further their careers with the implementation of three main features. These features consist of resume, interview, and job search assistance. 
+Career Canvas is an online platform designed to help users advance their careers through three main features: resume enhancement, interview preparation, and job search assistance.
 
 # Our Mission 
 As soon-to-be graduates, we recognize the significant challenges that new graduates face in the job market, including unemployment and the difficulties of job searching. These challenges often lead to financial strain and mental health struggles. To address this pressing issue, we created a resource designed to support fellow new graduates in their job search journey. Our goal is to alleviate some of the hardships associated with finding a job by providing assistance and hope during this critical transition period.
