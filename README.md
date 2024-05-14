@@ -1,5 +1,6 @@
 
-![CareerCanvas]<img src="https://github.com/shriyanadavi/Career-Canvas/assets/37775583/b208dd2f-6098-41de-a489-2e556d78d83e" alt="CareerCanvas" style="width:50%;">
+# Career Canvas
+src="https://github.com/shriyanadavi/Career-Canvas/assets/37775583/b208dd2f-6098-41de-a489-2e556d78d83e" alt="CareerCanvas" style="width:50%;">
 
 
 # Overview 
