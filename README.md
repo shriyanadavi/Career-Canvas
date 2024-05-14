@@ -1,6 +1,9 @@
 
+![CareerCanvas](https://github.com/shriyanadavi/Career-Canvas/assets/37775583/b208dd2f-6098-41de-a489-2e556d78d83e)
+
+
 # Overview 
-Career Canvas is
+Career Canvas is 
 
 # Our Mission 
 
