@@ -12,7 +12,7 @@ As soon-to-be graduates, we recognize the significant challenges that new gradua
 # Demo 
 Below is a video demonstration of the main features of our website. 
 
-https://github.com/shriyanadavi/Career-Canvas/assets/37775583/efe4732a-94d8-4e3b-bc73-a5a39efea936
+![Demonstration](https://github.com/shriyanadavi/Career-Canvas/assets/37775583/dbe2f54a-88ce-4947-bab8-16aa88c62c41)
 
 # Feature 1: Resume Help
 The first feature is an AI-powered tool that enables users to upload their resumes and receive targeted feedback, helping them enhance their resumes and showcase their skills to potential employers.
